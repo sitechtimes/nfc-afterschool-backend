@@ -1,0 +1,16 @@
+/env
+/venv
+data_migration/data.json
+
+# django
+/__pycache__
+__pycache__
+.venv
+*.log
+.venv
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+secret_key.txt
+static
+.env
